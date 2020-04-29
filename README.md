@@ -5,15 +5,15 @@ For English version of the introduction click [here](README-en.md)
 ## Spis treści
 
 1. [Wprowadzenie](#wprowadzenie)
-2. [Grupy ryzyka zarażenia Sars-Cov-2](#Grupy-ryzyka-zarażenia-Sars-Cov-2)
-3. [Anonimowość i bezpieczeństwo](#Anonimowość-i-bezpieczeństwo)
-4. [Grupy ryzyka zarażenia Sars-Cov-2](#Grupy-ryzyka-zarażenia-Sars-Cov-2)
-5. [Dalsze założenia](#Dalsze-założenia)
-6. [Zakres 2.0](#Zakres-2.0)
-7. [Zakres 3.0](#Zakres-3.0)
-8. [Zakres 3.1](#Zakres-3.1)
-9. [Zakres 3.2](#Zakres-3.2)
-10. [Zakres 3.3](#Zakres-3.3)
+2. [Grupy ryzyka zarażenia Sars-Cov-2](#grupy-ryzyka-zarażenia-sars-cov-2)
+3. [Anonimowość i bezpieczeństwo](#anonimowość-i-bezpieczeństwo)
+4. [Grupy ryzyka zarażenia Sars-Cov-2](#grupy-ryzyka-zarażenia-sars-cov-2)
+5. [Dalsze założenia](#dalsze-założenia)
+6. [Zakres 2.0](#zakres-20)
+7. [Zakres 3.0](#zakres-30)
+8. [Zakres 3.1](#zakres-31)
+9. [Zakres 3.2](#zakres-32)
+10. [Zakres 3.3](#zakres-33)
 11. [Najczęściej zadawane pytania](FAQ.md)
 12. [Chcę pomóc, zgłosić błąd, mam pomysł](CONTRIBUTING.md)
 
@@ -87,7 +87,7 @@ Projekt jest rozwijany na zlecenie MC przez konsorcjum firm: Tytani24 Sp. z o.o.
 
 Poniżej opisano wersję Aplikacji, które umożliwią Państwu analizę funkcjonalności już wdrożonych oraz dopiero planowanych. Obecnie (od 28.04.2020) dostępna jest aplikacja w wersji 3.0. Aplikacja w wersji 3.1 jest planowana do wprowadzenia po audytach, 08.05.2020. Szersza komunikacja o aplikacji pojawi się po 04.05.2020 a start emisji promocji po 08.
 
-## Zakres-2.0
+## Zakres 2.0
 Zakres funkcjonalności dla wersji 2.0
 Użytkownik anonimowo, bez podawania danych umożliwiających jakąkolwiek identyfikację instaluje Aplikację na telefonie z systemem operacyjnym Android i iOS(czeka na publikację),
 Użytkownik otwiera Aplikację i wyświetlają mu się informacje o sposobie jej działania i potrzebnych zgodach/uprawnieniach (akceptacja Regulaminu i Polityki Prywatności).
