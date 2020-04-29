@@ -139,3 +139,10 @@ Wydrukowany kod QR jest udostępniony w widocznym miejscu. Przed wejściem do mu
  
 ## Zakres 3.2
 Zakres funkcjonalności dla wersji 3.2 (w opracowaniu)
+
+
+## ProteGO Safe and it's documentation is licensed under
+
+[GNU General Public License v3.0](./LICENSE)
+
+Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
